@@ -6,6 +6,11 @@ A bot for managing and automating communication workflows.
 
 _Documentation coming soon._
 
+## Requirements
+
+- Python 3.10+
+- pip
+
 ## Contributing
 
 1. Fork the repository
